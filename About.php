@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
        <meta charset=utf-8" />
-        <title>Testing Page</title>
+        <title>Home</title>
         
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css" />
@@ -15,13 +15,12 @@ and open the template in the editor.
         
     </head>
     
-    <body id="index" class="home">
+    <body id="home" class="home">
         <div id="container">
         
 
-            <h1>hello hello</h1>
-            <br>
-            <h1><a href="#">Testing123</a></h1>
+            <h1>Reef Consulting</h1>
+          
  
 	<nav><ul>
 		<li class="active"><a href="#">home</a></li>

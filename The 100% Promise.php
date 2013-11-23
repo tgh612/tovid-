@@ -3,15 +3,15 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>link2</title>
+        <title>The 100% Promise</title>
         
         <link rel="stylesheet" href="style.css" type="text/css" />
         
     </head>
 
 
-<body id="link2" class="link2">
- link 2
+<body id="100promise" class="link1">
+ 100% Promise
  <?php
 
 ?>  

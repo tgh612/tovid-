@@ -3,15 +3,15 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>link2</title>
+        <title>Event Management </title>
         
         <link rel="stylesheet" href="style.css" type="text/css" />
         
     </head>
 
 
-<body id="link2" class="link2">
- link 2
+<body id="eventManagment" class="link1">
+ Event Management 
  <?php
 
 ?>  
